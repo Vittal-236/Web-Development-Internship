@@ -1,3 +1,3 @@
-# Task 1: Setup Environment
+# Task 2: CRUD Application with Authentication
 
-Project setup for PHP & MySQL internship.
+Basic blog system using PHP & MySQL.

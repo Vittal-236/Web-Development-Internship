@@ -1,1 +1,1 @@
-<?php echo '<h1>Welcome to Task 1</h1>'; ?>
+<?php echo '<h1>Welcome to the Blog App</h1>'; ?>
