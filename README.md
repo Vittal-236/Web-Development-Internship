@@ -1,3 +1,3 @@
-# Task 4: Security Enhancements
+# Task 5: Final Project
 
-Prepared statements, validation, and role-based access.
+Integrated features with testing and final submission.
