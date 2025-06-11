@@ -1,3 +1,3 @@
-# Task 3: Advanced Features
+# Task 4: Security Enhancements
 
-Added search, pagination, and UI improvements.
+Prepared statements, validation, and role-based access.
