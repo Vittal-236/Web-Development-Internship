@@ -1,3 +1,3 @@
-# Task 2: CRUD Application with Authentication
+# Task 3: Advanced Features
 
-Basic blog system using PHP & MySQL.
+Added search, pagination, and UI improvements.
